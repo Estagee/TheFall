@@ -1,0 +1,1 @@
+Projekt strony internetowej TheFall. Na stronie zarejestrowani u¿ytkownicy mog¹ dodawaæ obrazki i krótkie animacje. Ka¿dy dodany obiekt mo¿e zostaæ skomentowany. Administrator/moderator mo¿e fizycznie usuwaæ dodane posty i komentarze. 
